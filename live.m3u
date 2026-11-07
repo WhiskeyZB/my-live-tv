@@ -112,7 +112,7 @@ http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://tb.zbds.top/logo/纬来体育.png" group-title="体育",纬来体育 [备用]
 https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="港澳+粤语",翡翠台 [1.3s]
-http://r.jdshipin.com/62WM7
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://tb.zbds.top/logo/TVB Plus.png" group-title="港澳+粤语",TVB Plus [1.14s]
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://tb.zbds.top/logo/TVBS.png" group-title="港澳+粤语",TVBS Asia [0.34s]
@@ -136,4 +136,4 @@ http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="少儿",金鹰卡通 [0.07s]
 http://125.43.249.76:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="翡翠台粤语" tvg-logo="https://tb.zbds.top/logo/翡翠台.png" group-title="少儿",翡翠台粤语 [0.91s]
-http://r.jdshipin.com/62WM7
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
